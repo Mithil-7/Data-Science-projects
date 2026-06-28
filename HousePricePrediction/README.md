@@ -70,7 +70,7 @@ The dataset was split using an **80/20 train/test split**. Two algorithms were e
 ## 📂 Repository Structure
 
 ```text
-├── HousePricePrediction_[YourName]/
+├── HousePricePrediction/
 │   ├── analysis.ipynb              # Complete Jupyter Notebook containing all 5 tasks
 │   ├── Housing.csv                 # Raw dataset from Kaggle
 │   ├── summary.pdf                 # 1-page business summary report 
