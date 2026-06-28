@@ -17,7 +17,7 @@ Welcome to my portfolio repository. This space showcases end-to-end data science
 * **Type:** Regression Analysis
 * **Core Models:** Linear Regression vs. Random Forest Regressor
 * **Key Takeaway:** Identified that raw property dimensions (`area`) and structural utility constraints (`bathrooms`, `airconditioning`) outweigh baseline room capacity subdivisions in valuation impact.
-* **👉 [View Project Details & Documentation](./01_House_Price_Prediction/)**
+* **👉 [View Project Details & Documentation](./HousePricePrediction/)**
 
 ---
 
@@ -26,7 +26,7 @@ Welcome to my portfolio repository. This space showcases end-to-end data science
 * **Type:** Imbalanced Binary Classification
 * **Core Models:** Logistic Regression, Random Forest Classifier, Gradient Boosting
 * **Key Takeaway:** Uncovered that systemic workplace lifestyle dynamics (extreme overtime) and localized baseline income metrics sit as the highest leading indicators for employee exits.
-* **👉 [View Project Details & Documentation](./02_Employee_Attrition/)**
+* **👉 [View Project Details & Documentation](./EmployeeAttrition/)**
 
 ---
 
