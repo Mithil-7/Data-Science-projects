@@ -37,3 +37,22 @@ To replicate any of these analytical environments locally:
    ```bash
    git clone [https://github.com/your-username/Data-Science-projects.git](https://github.com/your-username/Data-Science-projects.git)
    cd Data-Science-projects
+Repository Structure
+'''text
+Data-Science-projects/
+│
+├── README.md                      <-- Master Index (Shows overview, skills, & folder links)
+│
+├── 01_House_Price_Prediction/     <-- Week 1 Folder
+│   ├── README.md                  <-- Copy your Week 1 README here
+│   ├── analysis.ipynb
+│   ├── Housing.csv
+│   └── charts/
+│
+└── 02_Employee_Attrition/         <-- Week 2 Folder
+    ├── README.md                  <-- Copy your Week 2 README here
+    ├── analysis.ipynb
+    ├── HR_Attrition.csv
+    └── charts/
+
+'''    
