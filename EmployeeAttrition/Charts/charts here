@@ -1,1 +1,30 @@
+Here is the clear, non-technical explanation of the charts you generated for your repository and report. This will help you present them confidently to the HR Director or include them as captions in your final project.
 
+---
+
+## 📊 Chart-by-Chart Explanations
+
+### Chart 1: Attrition Rate by Department and Overtime Demands
+
+* **What it shows:** A comparison of how many employees leave across the Human Resources, Research & Development, and Sales departments, broken down further by whether they work overtime.
+* **The HR Takeaway:** This chart clearly highlights that **overtime is a universal driver of turnover**. Across every single department, employees who work overtime have a drastically higher exit rate. The visual spike is most severe in the **Sales Department**, proving that combining a high-stress department with heavy overtime creates an immediate flight risk.
+
+### Chart 2: Salary Disparities (Active vs. Departed Employees)
+
+* **What it shows:** A box plot comparing the monthly income distributions of employees who stayed (Active) versus those who left (Departed).
+* **The HR Takeaway:** The visual gap between the two boxes shows a clear story: the "Left" box is sitting significantly lower on the income scale than the "Stayed" box. This provides visual proof that **lower-paid employees are leaving at a much higher rate**, and there is a critical income floor (around $3,000–$5,000) where attrition risks are highest.
+
+### Chart 3: Confusion Matrix (Model Performance Check)
+
+* **What it shows:** A four-quadrant grid that displays exactly how many times the model guessed correctly versus how many times it made an error on the test data.
+* **The HR Takeaway:** Think of this as the model's scorecard. It shows the HR Director exactly how dependable the system is. It visually maps out our **~80% success rate in catching employees who are going to leave** (True Positives), while also showing the minor "false alarms" (predicting someone will leave when they actually stay), proving the system is safe and accurate enough for operational use.
+
+### Chart 4: Top 10 Operational Drivers of Employee Attrition
+
+* **What it shows:** A horizontal bar chart ranking the features that the model relies on most heavily to flag an employee as a flight risk.
+* **The HR Takeaway:** This is the "Why" chart. Instead of guessing why retention is dropping, this chart ranks the exact workplace elements causing the issue. **Overtime sits right at the top**, followed closely by income levels and tenure metrics. It gives HR a concrete roadmap of exactly what policies to modify first to have the biggest impact on saving talent.
+
+### Chart 5: ROC Curve Comparison
+
+* **What it shows:** A graph tracking the performance accuracy curves of all three models (Logistic Regression, Random Forest, and Gradient Boosting) against each other.
+* **The HR Takeaway:** This chart visually justifies why we chose our final model. The curve that arches closest to the top-left corner represents the most accurate model. It shows the HR Director that we tested multiple mathematical approaches and selected the absolute best-performing option for the company's data.
