@@ -73,7 +73,7 @@ All generated visualizations are archived in the `charts/` folder and serve dist
 ## 📂 Repository Layout
 
 ```text
-├── EmployeeAttrition_[YourName]/
+├── EmployeeAttrition/
 │   ├── analysis.ipynb              # Notebook mapping tasks 1 through 7
 │   ├── HR_Attrition.csv            # Cleaned, structured dataset
 │   ├── summary.pdf                 # 1-page non-technical report for the HR Director
